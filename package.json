@@ -10,7 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobinBlomberg/kysely-codegen.git"
+    "url": "git+https://github.com/JayyWalker/kysely-codegen.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/RobinBlomberg/kysely-codegen/issues"
