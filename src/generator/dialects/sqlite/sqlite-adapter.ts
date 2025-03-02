@@ -11,5 +11,6 @@ export class SqliteAdapter extends Adapter {
     numeric: new IdentifierNode('number'),
     real: new IdentifierNode('number'),
     text: new IdentifierNode('string'),
+    timestamp: new IdentifierNode('Timestamp'),
   };
 }
